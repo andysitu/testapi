@@ -107,4 +107,5 @@ dist
 venv/*
 flask/venv/*
 
+*.db
 *.pyc
