@@ -105,5 +105,6 @@ dist
 
 #Venv folder
 venv/*
+flask/venv/*
 
 *.pyc
