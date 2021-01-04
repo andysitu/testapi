@@ -7,3 +7,9 @@ Power Shell run Flask
 > $env:FLASK_APP = "main.py"
 
 > python -m flask run
+
+To run on port 8080: 
+
+> python main.py 
+
+Flask, requests
