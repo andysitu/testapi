@@ -12,4 +12,4 @@ To run on port 8080:
 
 > python main.py 
 
-Flask, requests
+Flask, requests, sqlite3
